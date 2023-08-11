@@ -42,23 +42,6 @@
      <COMPTYPE>E</COMPTYPE>
     </DD03P>
    </DD03P_TABLE>
-   <LXE_TEXTS>
-    <item>
-     <SOURCE_LANG>enUS</SOURCE_LANG>
-     <TARGET_LANG>deDE</TARGET_LANG>
-     <CUSTMNR>999999</CUSTMNR>
-     <OBJTYPE>TABT</OBJTYPE>
-     <OBJNAME>ZABAPGIT_UNIT_T2</OBJNAME>
-     <TEXT_PAIRS>
-      <LXE_PCX_S1>
-       <TEXTKEY>1_DD02T                        A</TEXTKEY>
-       <S_TEXT>testing</S_TEXT>
-       <T_TEXT>Test in Deutsch</T_TEXT>
-       <UNITMLT>60</UNITMLT>
-      </LXE_PCX_S1>
-     </TEXT_PAIRS>
-    </item>
-   </LXE_TEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
