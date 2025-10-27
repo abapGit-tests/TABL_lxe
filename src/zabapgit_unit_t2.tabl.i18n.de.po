@@ -1,4 +1,4 @@
-﻿#, fuzzy
+#, fuzzy
 msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"
